@@ -1,11 +1,16 @@
     h1 {
         font-size: 4.5em;
+         text-align: center;
     }
 
 p {
         font-size: 4.5em;
+     text-align: center;
     }
 
     img {
         height: 500px;
+          display: block;
+  margin-left: auto;
+  margin-right: auto;
     }
